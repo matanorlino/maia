@@ -1,3 +1,2 @@
 # Maia
-Hello
-
+For intranet purposes only
