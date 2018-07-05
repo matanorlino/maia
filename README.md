@@ -1,2 +1,2 @@
 # Maia
-For intranet purposes only
+Teaching Kit
